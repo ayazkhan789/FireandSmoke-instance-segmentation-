@@ -1,9 +1,13 @@
 # FireandSmoke-instance-segmentation-
-This Repositoy includes my Fire and smoke intance segmentation using Vision-based
+This Repositoy includes my Fire and smoke instance segmentation using Vision-based
 
 
 
 
+
+
+
+https://github.com/ayazkhan789/FireandSmoke-instance-segmentation-/assets/90544920/5b71c286-7b22-4319-a8fc-429969e741cb
 
 
 
